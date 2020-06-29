@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://dogukan:Hektor*3261@mern-zejgo.mongodb.net/MERN?retryWrites=true&w=majority",
+  "jwtSecret": "secrettoken"
+}
